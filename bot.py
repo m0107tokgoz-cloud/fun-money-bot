@@ -1,1 +1,1 @@
-("Botlar")
+print("Botlar")
