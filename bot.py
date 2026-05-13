@@ -1,1 +1,1 @@
-print("Bot çalışıyor")
+print("Botlar")
