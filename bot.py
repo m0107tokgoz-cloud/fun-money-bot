@@ -1,1 +1,1 @@
-print("Botlar")
+("Botlar")
