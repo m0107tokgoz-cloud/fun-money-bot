@@ -1,2 +1,1 @@
-# fun-money-bot
-Para bot u
+# FUN MONEY AIRDROP BOT
